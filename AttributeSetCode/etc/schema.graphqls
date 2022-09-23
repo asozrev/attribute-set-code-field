@@ -1,0 +1,3 @@
+interface ProductInterface {
+    attribute_set_code: String @doc(description: "Code of attribute set assigned to the product") @resolver(class: "\\Ewave\\AttributeSetCode\\Model\\Resolver\\AttributeSetCodeResolver")
+}

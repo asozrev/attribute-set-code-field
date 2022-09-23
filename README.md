@@ -1,1 +1,1 @@
-# attribute-set-code-field
+# Module to extend product graphql schema
